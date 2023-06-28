@@ -1,6 +1,6 @@
 # diceapp
 
-A new Flutter project.
+A simple dice rolling app to learn fundamentals of Flutter.
 
 ## Getting Started
 
